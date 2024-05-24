@@ -1,0 +1,80 @@
+* {
+  margin: 10;
+  padding: 10;
+  font-family: "Times New Roman", Times, serif;
+}
+.banner img {
+  width: 100%;
+  height: 200px;
+  border: 10px solid black;
+}
+marquee {
+  background: yellowgreen;
+  scroll-behavior: smooth;
+  text-align: center;
+  width: 100%;
+  height: 85px;
+}
+marquee h3 {
+  color: white;
+  font-size: 30px;
+}
+.header p {
+  font-size: 20px;
+}
+.skincare h2 {
+  background-color: violet;
+  font: 30px;
+  color: blue;
+}
+.skincare p {
+  font-size: 20px;
+}
+img {
+  width: 800px;
+  height: 600px;
+  border: 6px solid pink;
+}
+.haircare h2 {
+  background-color: violet;
+  font: 30px;
+  color: blue;
+}
+.haircare p {
+  font-size: 20px;
+}
+.Fragrances h2 {
+  background-color: violet;
+  font: 30px;
+  color: blue;
+}
+.Fragrances p {
+  font-size: 20px;
+}
+.nail h2 {
+  background-color: violet;
+  font: 30px;
+  color: blue;
+}
+.nail p {
+  font-size: 20px;
+}
+.oral h2 {
+  background-color: violet;
+  font: 30px;
+  color: blue;
+}
+.oral p {
+  font-size: 20px;
+}
+.last h2 {
+  background-color: violet;
+  font: 30px;
+  color: blue;
+}
+.last p {
+  font-size: 20px;
+}
+.footer p {
+  font-size: 15px;
+}
